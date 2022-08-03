@@ -6,5 +6,5 @@ This is only used for testing, as authentication has been disabled allowing anyo
 Run with
 
 ```bash
-docker run -p 9090:9090 dikabrenda/jenkinsimage
+docker run -p 8080:8080 dikabrenda/jenkinsimages
 ```
